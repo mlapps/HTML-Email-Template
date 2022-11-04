@@ -6,6 +6,6 @@
 
 ### Copy the entire campaign and paste the file on a Microsoft 365 [index](index.html)
 
-### To use the template on a linux machine, open the [index](index.html) in the browser and copy the email from the browser
+### To use the template on a linux machine, open the [index](index.html) in the browser and copy the email from the browser and edit as desired
 
 ### To use the template on a windows machine, copy the html code on the [email](email.html).
